@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "A perfume",
+        "price": 10,
+        "imageUrl": "/imgs/Perfume1.Png"
+    },
+    {
+        "id": 2,
+        "name": "S perfume",
+        "price": 7,
+        "imageUrl": "/imgs/Perfume3.Png"
+    },
+    {
+        "id": 3,
+        "name": "B perfume",
+        "price": 8,
+        "imageUrl": "/imgs/Perfume2.Png"
+    },
+    {
+        "id": 4,
+        "name": "Shirt",
+        "price": 10.5,
+        "imageUrl": "/imgs/shirt.Png"
+    },
+    {
+        "id": 5,
+        "name": "Book",
+        "price": 10.99,
+        "imageUrl": "/imgs/book.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Computer",
+        "price": 1199,
+        "imageUrl": "/imgs/computer.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Banana",
+        "price": 1.05,
+        "imageUrl": "/imgs/banana.jpg"
+    }
+]
