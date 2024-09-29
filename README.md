@@ -11,10 +11,11 @@ This is a shopping cart application built with React and styled using Tailwind C
 ## Tech Stack
 This shopping cart application is built with React, a JavaScript library for building user interfaces, and styled using Tailwind CSS, a utility-first CSS framework. It leverages the Context API for state management, React Router for navigation and routing, and Axios for making HTTP requests.
 
-!Screenshot 1
-!Screenshot 2
-!Screenshot 3
-!Screenshot 4
-!Screenshot 5
-!Screenshot 6
+![](Screenshots/Screenshot1.png)
+![](Screenshots/Screenshot2.png)
+![](Screenshots/Screenshot3.png)
+![](Screenshots/Screenshot4.png)
+![](Screenshots/Screenshot5.png)
+![](Screenshots/Screenshot6.png)
 
+!Screenshot 1
